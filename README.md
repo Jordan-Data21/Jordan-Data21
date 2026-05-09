@@ -10,7 +10,7 @@ I am a **Data Analyst** and **Customer Service Professional** based in Costa Ric
 
 ## 📊 Featured Projects
 * **[Global Sales Analytics](https://github.com/Jordan-Data21/Global-Sales-Analytics-PowerBI):** Comprehensive Power BI dashboard for international sales performance.
-* **[Personal Wallet System](https://github.com/Jordan-Data21/Billetera-Personal-Python):** Python-based financial manager with data persistence.
+* **[Personal Wallet System](https://github.com/Jordan-Data21/Personal-Wallet-Python):** Python-based financial manager with data persistence.
 
 ## 🛠️ Professional Background
 With a strong background in financial data validation and credit reporting (Senior CSR at TransUnion), I combine technical analytical skills with a focus on data integrity and customer experience.
