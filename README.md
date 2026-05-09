@@ -16,5 +16,5 @@ I am a **Data Analyst** and **Customer Service Professional** based in Costa Ric
 With extensive experience in financial data validation and credit reporting (Senior CSR at TransUnion), I combine technical analytical skills with a strong focus on data integrity and customer experience.
 
 ## 📫 How to reach me
-* **LinkedIn:** [linkedin.com/in/jordan-araya-aguilera](www.linkedin.com/in/jordan-araya-17402a25b)
+* **LinkedIn:** [www.linkedin.com/in/jordan-araya-17402a25b](www.linkedin.com/in/jordan-araya-17402a25b)
 * **Location:** Heredia, Costa Rica 🇨🇷
