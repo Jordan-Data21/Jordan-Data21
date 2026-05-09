@@ -13,8 +13,8 @@ I am a **Data Analyst** and **Customer Service Professional** based in Costa Ric
 * **[Personal Wallet System](https://github.com/Jordan-Data21/Billetera-Personal-Python):** Python-based financial manager with data persistence.
 
 ## 🛠️ Professional Background
-With extensive experience in financial data validation and credit reporting (Senior CSR at TransUnion), I combine technical analytical skills with a strong focus on data integrity and customer experience.
+With a strong background in financial data validation and credit reporting (Senior CSR at TransUnion), I combine technical analytical skills with a focus on data integrity and customer experience.
 
 ## 📫 How to reach me
-* **LinkedIn:** [www.linkedin.com/in/jordan-araya-17402a25b](www.linkedin.com/in/jordan-araya-17402a25b)
-* **Location:** Heredia, Costa Rica 🇨🇷
+* **LinkedIn:** [linkedin.com/in/jordan-araya-17402a25b](https://www.linkedin.com/in/jordan-araya-17402a25b)
+* **Location:** Costa Rica 🇨🇷
