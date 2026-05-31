@@ -9,6 +9,7 @@ I am a **Data Analyst** and **Customer Service Professional** based in Costa Ric
 * **Languages:** Spanish (Native), English (Professional).
 
 ## 📊 Featured Projects
+* [UrbanStyle E-Commerce Dashboard](https://github.com/Jordan-Data21/urbanstyle-commerce-dashboard): *An interactive data analysis and visualization project focused on commercial operations, sales tracking, and retail performance.*
 * **[Global Sales Analytics](https://github.com/Jordan-Data21/Global-Sales-Analytics-PowerBI):** Comprehensive Power BI dashboard for international sales performance.
 * **[Personal Wallet System](https://github.com/Jordan-Data21/Personal-Wallet-Python):** Python-based financial manager with data persistence.
 
