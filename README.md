@@ -18,4 +18,5 @@ With a strong background in financial data validation and credit reporting (Seni
 
 ## 📫 How to reach me
 * **LinkedIn:** [linkedin.com/in/jordan-araya-17402a25b](https://www.linkedin.com/in/jordan-araya-17402a25b)
+* **Fiverr Store:** [Hire Me for Data Cleaning & Analytics](http://www.fiverr.com/s/7YP8kE1) 🚀
 * **Location:** Costa Rica 🇨🇷
